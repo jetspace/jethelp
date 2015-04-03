@@ -1,0 +1,34 @@
+/*
+Default Stylesheet for JetHelp
+Copyright (C) 2015 Marius Messerschmidt
+*/
+
+h1 {
+  color: #DC5A14;
+}
+
+body {
+  color: black;
+  padding: 4px;
+}
+
+h3 {
+  color: #DC5A14;
+}
+
+#foot {
+
+  width: 100vw;
+  text-align: center;
+  position: fixed;
+  background-color: #EEEEEE;
+  bottom: 0vw;
+
+  font-size: 17px;
+  font-weight: 400;
+
+}
+
+a {
+  color: #DC5A14;
+}
